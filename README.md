@@ -15,8 +15,7 @@ This project demonstrates frontend development skills in **UI design**, **API in
 
 ### Clone the repository
 
-git clone https://github.com/<your-username>/r-swapi-test.git
-cd r-swapi-test
+git clone https://github.com/AmitKumar2k2/zippee-assessment
 
 ### Install dependencies
 - npm install
